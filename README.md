@@ -1,1 +1,6 @@
 # LatestTechNews-Website
+
+__________________________________________________________________________________________________________________________________
+
+Hey! Are you interested in read latest and tranding news.? So here i have developed website through this website you can read news related to technology, smartphones, computers and more....
+__________________________________________________________________________________________________________________________________
